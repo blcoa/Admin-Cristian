@@ -51,7 +51,7 @@
 <body>
 
 <header>
-    <img F:\Index.html" alt="ICARO">
+    <F:\Index.html" alt="ICARO">
     <h1>¡Mi Página Web Cristian!</h1>
 </header>
 
